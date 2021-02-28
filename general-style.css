@@ -93,7 +93,6 @@ h3 {
   background-color: #80ffdb;
   padding: 10px;
   color: #252525;
-  height: calc(100vh - 80px);
   text-align: center;
 }
 
@@ -114,7 +113,7 @@ h1 {
   width: 350px;
  max-width: 80%;
   margin: 10px auto;
-  display: block;
+  display: inline-block;
 }
 
 .services-wrapper {
